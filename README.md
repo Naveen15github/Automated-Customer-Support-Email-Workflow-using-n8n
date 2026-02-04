@@ -3,10 +3,10 @@
 This Workflow is a **fully automated customer support email handling system** built with **n8n**, designed to streamline email management, improve response times, and maintain organized communication. The workflow automatically classifies incoming emails, drafts context-aware replies, and organizes emails within Gmail—all without manual intervention.
 
 ---
-![Alt text](image_url "Optional title")
-![Alt text](image_url "Optional title")
-![Alt text](image_url "Optional title")
-![Alt text](image_url "Optional title")
+![Alt text](https://github.com/Naveen15github/Automated-Customer-Support-Email-Workflow-using-n8n/blob/f7142549589ff01afb02b7b4359367098ebecc73/Screenshot%20(427).png)
+![Alt text](https://github.com/Naveen15github/Automated-Customer-Support-Email-Workflow-using-n8n/blob/f7142549589ff01afb02b7b4359367098ebecc73/Screenshot%20(424).png)
+![Alt text](https://github.com/Naveen15github/Automated-Customer-Support-Email-Workflow-using-n8n/blob/f7142549589ff01afb02b7b4359367098ebecc73/Screenshot%20(425).png)
+![Alt text](https://github.com/Naveen15github/Automated-Customer-Support-Email-Workflow-using-n8n/blob/f7142549589ff01afb02b7b4359367098ebecc73/Screenshot%20(426).png)
 
 
 ## **Overview**
